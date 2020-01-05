@@ -13,4 +13,4 @@ approach of Deep Learning applied to Visual Odometry.
 
 ![](trajetoria-08.png)
 ![](trajetoria-09.png)
-![](trajetoria-10png)
+![](trajetoria-10.png)
