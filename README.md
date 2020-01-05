@@ -22,6 +22,14 @@ The comparison of ours proposal method to techniques **VISO2-M**, **CNNVO**, **S
 
 The generation of the data used for the training of this architecture may be done using the technique [SPS-St]  (https://ttic.uchicago.edu/~dmcallester/SPS/index.html “SPS-St”) to generate Disparity Maps for the training.
 
+First of all, clone this repository:
+
+`$ git clone https://github.com/viniciusarasantos/siamesedepthvo.git`
+
 You'll need to install the requirements to train the model: 
 
 `$ pip install -r requirements.txt`
+
+Then you can just run the following command and you should be able to train the model and test it: 
+
+`$ jupyter notebook DepthVO-with-outputs.ipynb`
