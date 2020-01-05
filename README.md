@@ -1,5 +1,5 @@
-# siamesedepthvo
-SiameseVO-Depth: Visual Odometry through Siamese Neural  Networks
+# SiameseVO-Depth: Visual Odometry through Siamese Neural  Networks
+
 
 Abstract: Visual Odometry is an important process in image based navigation of robots. The standard methods of this field rely on the good feature matching between frames where
 feature detection on images stands as a well adressed problem within Computer Vision. Such techniques are subject to illumination problems, noise and poor feature localization
