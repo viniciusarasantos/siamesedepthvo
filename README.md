@@ -10,3 +10,7 @@ this gap by applying Deep Learning to estimate egomotion through disparity maps 
 techniques on OV by using the KITTI Vision Benchmark Suite. The results reveal that the chosen methodology succeeded on the estimation of Visual Odometry although it doesn’t
 outperform the state-of-the-art techniques. This work presents fewer steps in relation to standard VO techniques for it consists of an end-to-end solution and demonstrates a new
 approach of Deep Learning applied to Visual Odometry.
+
+![](trajetoria-08.png)
+![](trajetoria-09.png)
+![](trajetoria-10png)
