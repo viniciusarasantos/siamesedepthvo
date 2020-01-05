@@ -24,4 +24,4 @@ The generation of the data used for the training of this architecture may be don
 
 You'll need to install the requirements to train the model: 
 
-`$ pip install -c requirements.txt`
+`$ pip install -r requirements.txt`
