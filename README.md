@@ -7,14 +7,14 @@ The comparison of ours proposal method to techniques VISO2-M, CNNVO, SVR and the
 
 **Sequence 08**
 
-(trajetoria-08.png)![]
+![](trajetoria-08.png)
 
 **Sequence 09**
 
-(trajetoria-09.png)![]
+![](trajetoria-09.png)
 
 **Sequence 10**
 
-(trajetoria-10.png)![]
+![](trajetoria-10.png)
 
 
