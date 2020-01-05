@@ -20,7 +20,7 @@ The comparison of ours proposal method to techniques **VISO2-M**, **CNNVO**, **S
 
 ![](trajetoria-10.png)
 
-The generation of the data used for the training of this architecture may be done using the technique [SPS-St]  (https://ttic.uchicago.edu/~dmcallester/SPS/index.html “SPS-St”) to generate Disparity Maps for the training.
+The generation of the data used for the training of this architecture may be done using the technique [SPS-St](https://ttic.uchicago.edu/~dmcallester/SPS/index.html) to generate Disparity Maps for the training.
 
 First of all, clone this repository:
 
